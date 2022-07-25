@@ -1,0 +1,34 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    background-color: white;
+}
+h4{
+    padding: 10px;
+    
+}
+.profile{
+    text-align: center;
+    /* margin: 50px; */
+}
+.dell{
+
+}
+.kit{
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+.mit{
+    padding-left: 30px;
+}
+
+.highlight-word-color{
+    color: brown;
+}
+.seperate{
+    padding-top: 5px;
+}
